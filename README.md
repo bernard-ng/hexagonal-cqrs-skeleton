@@ -12,7 +12,7 @@ An opinionated framework to develop CQRS applications using hexagonal architectu
 
 
 ### Coding standard
-[Doctrine Coding Standart](https://github.com/doctrine/coding-standard) is used
+[Doctrine Coding Standard](https://github.com/doctrine/coding-standard) is used
 
 ## Installation
 ```bash
